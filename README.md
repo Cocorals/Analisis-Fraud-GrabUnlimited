@@ -35,3 +35,5 @@ Analisis ini menghasilkan rekomendasi konkret yang membantu perusahaan secara ef
 * **Menjaga Integritas Mitra Driver:** Membantu mendeteksi & memetakan restoran fiktif/lalai, sehingga menurunkan *Cancelation Rate* akibat Resto Tutup & Resto Tidak Ditemukan.
 
 ---
+
+Public Presentation : https://canva.link/4u3voewu6qhc3gl
