@@ -36,5 +36,5 @@ Analisis ini menghasilkan rekomendasi konkret yang membantu perusahaan secara ef
 
 ---
 
-Public Presentation : https://canva.link/4u3voewu6qhc3gl
-Public Tableau Dashboard : https://public.tableau.com/app/profile/daya.say/viz/Grab_food_orders/Dashboard1?publish=yes
+* Public Presentation : https://canva.link/4u3voewu6qhc3gl
+* Public Tableau Dashboard : https://public.tableau.com/app/profile/daya.say/viz/Grab_food_orders/Dashboard1?publish=yes
